@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep-mr&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep-mr" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
